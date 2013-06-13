@@ -56,6 +56,6 @@ Don’t use flax seed oil capsules etc as you will miss out on the very benefici
 Have fasting cholesterol done before diet
 Repeat after 3 weeks of keeping to the diet
 Can also weigh yourself to check progress.  Do this without clothes and same time each day to minimize recording fluid changes.  It is natural to lose weight on this diet.
-Studies show that the bad cholesterol ( LDL-c ) can drop from 15 - 30% in 3 weeks on this diet.
+Studies show that the bad cholesterol ( LDL-c ) can drop from 15 - 30% in 3 weeks on this diet.  Long term studies by Ornish and others show reversal of heart disease at 1 year and even more benefit at 5 years.
 
 Version 1.4 Dr Graham Chiu 13 June 2013
