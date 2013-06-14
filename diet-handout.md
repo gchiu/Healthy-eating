@@ -32,7 +32,9 @@ Avoid palm and coconut oils (and milk) as they are saturated fats.  Safflower oi
 
 250 mcg/day of Cyanocobalamin daily ( use methylcobalamin if you have kidney disease)
 or
-2500 mcg/week
+approximately 2500 mcg/week
+
+Eg. Solgar Vitamin B12 1000 mcg nuggets.  Approximately NZ$36 for 100.  Take one Saturday and one Sunday.  One bottle should last 1 year.
 
 **Omega 3**
 
@@ -45,7 +47,7 @@ Farmed Salmon is much higher in fat than wild Salmon, and has a higher proportio
 
 A healthy plant source of Omega 3.
  
-Sprinkle 2 tablespoons per day of ground flax seeds (aka lin seeds) on food.  It is tasteless. Use a coffee grinder.
+Sprinkle 2 tablespoons per day of ground flax seeds (aka lin seeds) on food.  It is tasteless. Use a coffee grinder. Keeps about a week in the fridge after grinding.  And about a month if kept as seeds.
 
 Don’t eat them whole as you have to chew them too much to extract the oils.
 
@@ -59,4 +61,4 @@ Can also weigh yourself to check progress.  Do this without clothes and same tim
 
 Studies show that the bad cholesterol ( LDL-c ) can drop from 15 - 30% in 3 weeks on this diet.  Long term studies by Ornish and others show the start of a reversal of heart disease at 1 year and even more benefit at 5 years.
 
-Version 1.5 Dr Graham Chiu 13 June 2013
+Version 1.6 Dr Graham Chiu 14 June 2013
