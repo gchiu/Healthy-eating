@@ -2,19 +2,23 @@
 
 ## **Background** ##
 
-The consumption of saturated animal fats is directly related to diseases of western civilisation including breast, bowel and prostate cancer, hypertension, diabetes, peripheral and central vascular disease, and heart disease.  It likely contributes to inflammatory arthritis.
+The consumption of saturated animal fats is directly related to diseases of western civilisation including breast, bowel and prostate cancer, hypertension, diabetes, peripheral and central vascular disease, and ischaemic heart disease.  It likely contributes to inflammatory arthritis.
 
 Removing visible fat does not work .. intracellular and extracellular fat is bound in and around cells, and can not be seen or removed in food preparation.
 
 ## **Exclusions** ##
 
-Fish, beef, pork, chicken, milk, eggs, cream, yoghurt,  butter ie. all dairy products and anything produced/laid by an animal.  If you are in a situation where eating meat is not avoidable, choose white over red.
+Fish, beef, pork, lamb, chicken, milk, eggs, cream, yoghurt,  butter i.e. all dairy products and anything produced/laid by an animal.  If you are in a situation where eating meat is not avoidable, choose white over red.
 
 No carbonated drinks.
+
+Alcohol; no more than 21 Units per week for men, 14 Units for women, and no more than 3 drinks in an hour.
 
 ## **Inclusions** ##
 
 Vegetables freely, pulses/beans, whole grains if you can (brown rice over white, whole grain breads), fruit in natural form ( dried fruits contain too much sugar), nuts ( aim for 30 g of mixed nuts daily - too much and you’ll gain weight ), Quinoa, buckwheat (soba), tofu, white button mushrooms (best of the fungi), and berries.
+
+Use extra virgin NZ olive oil on bread if you need it, and not margarine.  Beware cheap overseas olive oil as it may be adulterated. [2]
 
 Drink green tea ( or better still white tea if available).  Avoid too much coffee. 
 
@@ -24,7 +28,7 @@ Eating too much healthy plant based food will also cause weight gain though this
 
 Canola oil, rice bran oil for high temperature cooking.  Use olive oil only for low temperature cooking.
 
-Avoid palm and coconut oils (and milk) as they are saturated fats.  Safflower oil is high in Omega-6 so avoid.  Any fat that goes solid in the fridge or at room temperature should be avoided.  A high Omega-6 oil consumption with a low fat diet can be lethal.
+Avoid palm and coconut oils (and coconut milk) as they are saturated fats.  Safflower oil is high in Omega-6 so avoid.  Any fat that goes solid in the fridge or at room temperature should be avoided.  High Omega-6 oil consumption together with a low fat diet can be lethal.
 
 ## **Supplements** ##
 
@@ -43,6 +47,8 @@ Avoid fish oils - purity is unknown even it may be claimed to be free of mercury
 
 Farmed Salmon is much higher in fat than wild Salmon, and has a higher proportion of pro-inflammatory Omega-6 vs the more healthy anti-inflammatory long chain marine Omega-3 oils.
 
+NICE are no longer advising the consumption of oily fish for the secondary prevention of heart attacks. [1]
+
 **Flax/Lin Seeds**
 
 A healthy plant source of Omega 3.
@@ -55,10 +61,12 @@ Don’t use flax seed oil capsules etc as you will miss out on the very benefici
 
 ## **Lipid Testing** ##
 
-Have fasting cholesterol done before diet
-Repeat after 3 weeks of keeping to the diet.
-Can also weigh yourself to check progress.  Do this without clothes and same time each day to minimize recording fluid changes.  It is natural to lose weight on this diet.
+Have fasting cholesterol done before diet. Repeat after 3 weeks of keeping to the diet. Can also weigh yourself to check progress.  Do this without clothes and same time each day to minimize recording fluid changes.  It is natural to lose weight on this diet.
 
 Studies show that the bad cholesterol ( LDL-c ) can drop from 15 - 30% in 3 weeks on this diet.  Long term studies by Ornish and others show the start of a reversal of heart disease at 1 year and even more benefit at 5 years.
 
-Version 1.6 Dr Graham Chiu 14 June 2013
+Version 1.7 Dr Graham Chiu MBChB, MRCP(UK), FRACP 14 June 2013
+
+[1] http://www.nice.org.uk/nicemedia/live/13502/64153/64153.pdf
+
+[2] http://www.oliveoiltimes.com/olive-oil-business/europe/operation-lucerna-olive-oil-fraud/24815
