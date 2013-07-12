@@ -28,7 +28,7 @@ Eating too much healthy plant based food will also cause weight gain though this
 
 Canola oil, rice bran oil for high temperature cooking.  Use olive oil only for low temperature cooking.
 
-Avoid palm and coconut oils (and coconut milk) as they are saturated fats.  Safflower oil is high in Omega-6 so avoid.  Any fat that goes solid in the fridge or at room temperature should be avoided.  High Omega-6 oil consumption together with a low fat diet can be lethal.
+Avoid palm and coconut oils (and coconut milk) as these tropical oils are saturated fats.  Safflower oil is high in Omega-6 so avoid.  Any fat that goes solid in the fridge or at room temperature should be avoided.  High Omega-6 oil consumption together with a low fat diet can be lethal.
 
 ## **Supplements** ##
 
@@ -48,6 +48,8 @@ Avoid fish oils - purity is unknown even it may be claimed to be free of mercury
 Farmed Salmon is much higher in fat than wild Salmon, and has a higher proportion of pro-inflammatory Omega-6 vs the more healthy anti-inflammatory long chain marine Omega-3 oils.
 
 NICE are no longer advising the consumption of oily fish for the secondary prevention of heart attacks. [1]
+
+There is now a warning that fish oils might increase prostate cancer [3]
 
 **Flax/Lin Seeds**
 
@@ -70,3 +72,5 @@ Version 1.7 Dr Graham Chiu MBChB, MRCP(UK), FRACP 14 June 2013
 [1] http://www.nice.org.uk/nicemedia/live/13502/64153/64153.pdf
 
 [2] http://www.oliveoiltimes.com/olive-oil-business/europe/operation-lucerna-olive-oil-fraud/24815
+
+[3] http://www.dailymail.co.uk/health/article-2359466/Taking-omega-3-fish-oil-supplements-increase-risk-aggressive-prostate-cancer-70.html
