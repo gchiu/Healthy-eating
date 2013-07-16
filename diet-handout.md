@@ -4,11 +4,15 @@
 
 The consumption of saturated animal fats is directly related to diseases of western civilisation including breast, bowel and prostate cancer, hypertension, diabetes, peripheral and central vascular disease, and ischaemic heart disease.  It likely contributes to inflammatory arthritis.
 
-Removing visible fat does not work .. intracellular and extracellular fat is bound in and around cells, and can not be seen or removed in food preparation.
+Removing visible fat does not work .. intracellular and extracellular fat is bound in and around cells, and can not be seen or removed in food preparation.  And cholesterol is mainly found in the lean part of meat.
+
+A reduction of 1% of your blood cholesterol reduces your risk of heart disease by 2%.
 
 ## **Exclusions** ##
 
 Fish, beef, pork, lamb, chicken, milk, eggs, cream, yoghurt,  butter i.e. all dairy products and anything produced/laid by an animal.  If you are in a situation where eating meat is not avoidable, choose white over red.
+
+Note that skinless chicken has 23% of calories from saturated fat.[4]
 
 No carbonated drinks.
 
@@ -74,3 +78,5 @@ Version 1.7 Dr Graham Chiu MBChB, MRCP(UK), FRACP 14 June 2013
 [2] http://www.oliveoiltimes.com/olive-oil-business/europe/operation-lucerna-olive-oil-fraud/24815
 
 [3] http://www.dailymail.co.uk/health/article-2359466/Taking-omega-3-fish-oil-supplements-increase-risk-aggressive-prostate-cancer-70.html
+
+[4] http://www.pcrm.org/health/health-topics/cholesterol-and-heart-disease
