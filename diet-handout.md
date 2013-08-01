@@ -12,11 +12,11 @@ A reduction of 1% of your blood cholesterol reduces your risk of heart disease b
 
 Fish, beef, pork, lamb, chicken, milk, eggs, cream, yoghurt,  butter i.e. all dairy products and anything produced/laid by an animal.  If you are in a situation where eating meat is not avoidable, choose white over red.
 
-Note that skinless chicken has 23% of calories from saturated fat.[4]
+Note that skinless chicken has 23% of its calories from saturated fat.[4]
 
-No carbonated drinks.
+No carbonated drinks.  They cause osteoporosis and soften teeth enamel.  
 
-Alcohol; no more than 21 Units per week for men, 14 Units for women, and no more than 3 drinks in an hour.
+Alcohol; no more than 21 Units per week for men, 14 Units for women, and no more than 3 drinks in an hour.  Authorities declare that there is no safe regular amount of alcohol for women.
 
 ## **Inclusions** ##
 
@@ -24,7 +24,7 @@ Vegetables freely, pulses/beans, whole grains if you can (brown rice over white,
 
 Use extra virgin NZ olive oil on bread if you need it, and not margarine.  Beware cheap overseas olive oil as it may be adulterated. [2]
 
-Drink green tea ( or better still white tea if available).  Avoid too much coffee. 
+Drink green tea ( or better still specialist white tea if available).  Avoid too much coffee. 
 
 Eating too much healthy plant based food will also cause weight gain though this is more likely on the basis of consumption of breads and nuts.
 
@@ -59,11 +59,15 @@ There is now a warning that fish oils might increase prostate cancer [3]
 
 A healthy plant source of Omega 3.
  
-Sprinkle 2 tablespoons per day of ground flax seeds (aka lin seeds) on food.  It is tasteless. Use a coffee grinder. Keeps about a week in the fridge after grinding.  And about a month if kept as seeds.
+Sprinkle 2 tablespoons per day of ground flax seeds (aka lin seeds) on food.  It is tasteless. Use a coffee grinder. Keeps about a week in the fridge after grinding.  And about a month if kept as seeds.  Buy from supermarkets.
 
 Don’t eat them whole as you have to chew them too much to extract the oils.
 
 Don’t use flax seed oil capsules etc as you will miss out on the very beneficial fibre.
+
+## Weight Loss ##
+
+In open clinical studies, ad libitum plant based diets such as this one can produce a weight loss of about 10 kgs over 4 months [5]
 
 ## **Lipid Testing** ##
 
@@ -71,7 +75,7 @@ Have fasting cholesterol done before diet. Repeat after 3 weeks of keeping to th
 
 Studies show that the bad cholesterol ( LDL-c ) can drop from 15 - 30% in 3 weeks on this diet.  Long term studies by Ornish and others show the start of a reversal of heart disease at 1 year and even more benefit at 5 years.
 
-Version 1.7 Dr Graham Chiu MBChB, MRCP(UK), FRACP 14 June 2013
+Version 1.8 Dr Graham Chiu MBChB, MRCP(UK), FRACP 1 Aug 2013
 
 [1] http://www.nice.org.uk/nicemedia/live/13502/64153/64153.pdf
 
@@ -80,3 +84,7 @@ Version 1.7 Dr Graham Chiu MBChB, MRCP(UK), FRACP 14 June 2013
 [3] http://www.dailymail.co.uk/health/article-2359466/Taking-omega-3-fish-oil-supplements-increase-risk-aggressive-prostate-cancer-70.html
 
 [4] http://www.pcrm.org/health/health-topics/cholesterol-and-heart-disease
+
+[5] Kjeldsen-Kragh J., Borchgrevink C. F., Mowinkel P. et al.
+Controlled trial of fasting and one-year vegetarian diet in
+rheumatoid arthritis. Lancet 1991; 338: 899–902 
