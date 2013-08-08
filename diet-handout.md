@@ -30,9 +30,9 @@ Eating too much healthy plant based food will also cause weight gain though this
 
 ## **Cooking** ##
 
-Canola oil, rice bran oil for high temperature cooking.  Use olive oil only for low temperature cooking.
+Canola oil, rice bran oil for high temperature cooking.  Use olive oil only for low temperature cooking.  GMO Canola only has a modified protein which is removed when the oil is produced so this not an issue.  
 
-Avoid palm and coconut oils (and coconut milk) as these tropical oils are saturated fats.  Safflower oil is high in Omega-6 so avoid.  Any fat that goes solid in the fridge or at room temperature should be avoided.  High Omega-6 oil consumption together with a low fat diet can be lethal.
+Avoid palm and coconut oils (and coconut milk) as these tropical oils are saturated fats.  Safflower oil is high in Omega-6 so avoid.  Same for sunflower, corn, cottonseed oils.  Any fat that goes solid in the fridge or at room temperature should be avoided.  High Omega-6 oil consumption together with a low fat diet can be lethal.
 
 ## **Supplements** ##
 
@@ -40,7 +40,9 @@ Avoid palm and coconut oils (and coconut milk) as these tropical oils are satura
 
 250 mcg/day of Cyanocobalamin daily ( use methylcobalamin if you have kidney disease)
 or
-approximately 2500 mcg/week
+approximately 2500 mcg/week.
+
+B12 is not only required to keep B12 levels up, but also to lower homocysteine levels in your blood.
 
 Eg. Solgar Vitamin B12 1000 mcg nuggets.  Approximately NZ$36 for 100.  Take one Saturday and one Sunday.  One bottle should last 1 year.
 
@@ -49,7 +51,7 @@ Eg. Solgar Vitamin B12 1000 mcg nuggets.  Approximately NZ$36 for 100.  Take one
 **Fish Oils**
 Avoid fish oils - purity is unknown even it may be claimed to be free of mercury and plastic degradation compounds.  And studies of up to 2-3 years duration have not confirmed heart benefits yet from consuming fish oils.
 
-Farmed Salmon is much higher in fat than wild Salmon, and has a higher proportion of pro-inflammatory Omega-6 vs the more healthy anti-inflammatory long chain marine Omega-3 oils.
+Farmed Salmon is much higher in fat than wild Salmon, and has a higher proportion of pro-inflammatory Omega-6 vs the more healthy anti-inflammatory long chain marine Omega-3 oils. Farmed fish also contain plastic degradation products.
 
 NICE are no longer advising the consumption of oily fish for the secondary prevention of heart attacks. [1]
 
@@ -65,6 +67,8 @@ Don’t eat them whole as you have to chew them too much to extract the oils.
 
 Don’t use flax seed oil capsules etc as you will miss out on the very beneficial fibre.
 
+1 tablespoon of ground flaxseeds mixed with 3 tablespoons of water can be used in baking as a single egg substitute.
+
 ## Weight Loss ##
 
 In open clinical studies, ad libitum plant based diets such as this one can produce a weight loss of about 10 kgs over 4 months [5]
@@ -75,7 +79,7 @@ Have fasting cholesterol done before diet. Repeat after 3 weeks of keeping to th
 
 Studies show that the bad cholesterol ( LDL-c ) can drop from 15 - 30% in 3 weeks on this diet.  Long term studies by Ornish and others show the start of a reversal of heart disease at 1 year and even more benefit at 5 years.
 
-Version 1.8 Dr Graham Chiu MBChB, MRCP(UK), FRACP 1 Aug 2013
+Version 1.8 Dr Graham Chiu MBChB, MRCP(UK), FRACP 8 Aug 2013
 
 [1] http://www.nice.org.uk/nicemedia/live/13502/64153/64153.pdf
 
