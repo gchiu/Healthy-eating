@@ -83,15 +83,15 @@ Studies show that the bad cholesterol ( LDL-c ) can drop from 15 - 30% in 3 week
 
 ## **Trouble Shooting** ##
 
-It may be that despite keeping to this diet to the letter, your cholesterol does not fall, or, falls only a small amount.  While you may have a hereditary disorder of cholesterol metabolism, the most likely problem is that your diet is still too high in fat.  Whilst it has been shown that replacing saturated fat with unsaturated fat eg. in the Lyon Diet Heart Study [8] improves outcomes, others believe that removing unsaturated fat is even better.
+It may be that despite keeping to this diet to the letter, your cholesterol does not fall, or, falls only a small amount.  While you may have a hereditary disorder of cholesterol metabolism, the most likely problem is that your diet is still too high in fat.  Whilst it has been shown that replacing saturated fat with unsaturated fat eg. in the Lyon Diet Heart Study [8] improves cardiovascular outcomes, others believe that removing all fat is even better.
 
-Dr Caldwell Esselstyn recommends removing all unsaturated fat from the diet as well, and this means disallowing the use of oil for cooking, no nuts to be consumed, and no avocado.  It may be worthwhile to do a further 3 week trial following his suggestion to see what happens.  You can also read his book on the subject. [9]
+Dr Caldwell Esselstyn recommends removing all unsaturated fat from the diet based on his many years of treating coronary heart disease, and this means disallowing the use of oil for cooking, no nuts to be consumed, and no avocado.  It may be worthwhile to do a further 3 week trial following his suggestion to see what happens to your cholesterol.  You can also read his book on the subject for more information. [9]
 
 ## Latest Version ##
 
 Of this diet sheet is at https://github.com/gchiu/Healthy-eating
 
-Version 1.9 Dr Graham Chiu MBChB, MRCP(UK), FRACP 26 Aug 2013
+Version 1.10 Dr Graham Chiu MBChB, MRCP(UK), FRACP 26 Aug 2013
 
 [1] http://www.nice.org.uk/nicemedia/live/13502/64153/64153.pdf
 
