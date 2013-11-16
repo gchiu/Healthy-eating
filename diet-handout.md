@@ -10,9 +10,9 @@ A reduction of 1% of your blood cholesterol reduces your risk of heart disease b
 
 ## **Exclusions** ##
 
-Fish, beef, pork, lamb, chicken, milk, eggs, cream, yoghurt,  butter i.e. all dairy products and anything produced/laid by an animal.  If you are in a situation where eating meat is not avoidable, choose white over red.
+Fish, beef, pork, lamb, chicken, milk, eggs, cream, yoghurt,  butter i.e. all dairy products and anything produced/laid by an animal.  If you are in a situation where eating meat is not avoidable, choose white (poultry, fish) over red (of mammal origin).
 
-Note that skinless chicken has 23% of its calories from saturated fat.[4]
+Note that so called low fat skinless chicken breast still has 23% of its calories from saturated fat.[4]
 
 No carbonated drinks.  They cause osteoporosis and soften teeth enamel.  
 
@@ -25,6 +25,8 @@ Vegetables freely, pulses/beans, whole grains if you can (brown rice over white,
 Use extra virgin NZ olive oil on bread if you need it, and not margarine.  Beware cheap overseas olive oil as it may be adulterated. [2]
 
 Drink green tea ( or better still specialist white tea if available).  Avoid too much coffee. 
+
+Eating 2 handfuls of nuts a week gives the same benefit in women of 4 hours of jogging a week[6].  Eating 3 handfuls (100g) of Pistachio nuts a day in men improves erectile dysfunction as well as lowering cholesterol [7].
 
 Eating too much healthy plant based food will also cause weight gain though this is more likely on the basis of consumption of breads and nuts.
 
@@ -79,7 +81,17 @@ Have fasting cholesterol done before diet. Repeat after 3 weeks of keeping to th
 
 Studies show that the bad cholesterol ( LDL-c ) can drop from 15 - 30% in 3 weeks on this diet.  Long term studies by Ornish and others show the start of a reversal of heart disease at 1 year and even more benefit at 5 years.
 
-Version 1.8 Dr Graham Chiu MBChB, MRCP(UK), FRACP 8 Aug 2013
+## **Trouble Shooting** ##
+
+It may be that despite keeping to this diet to the letter, your cholesterol does not fall, or, falls only a small amount.  While you may have a hereditary disorder of cholesterol metabolism, the most likely problem is that your diet is still too high in fat.  Whilst it has been shown that replacing saturated fat with unsaturated fat eg. in the Lyon Diet Heart Study [8] improves outcomes, others believe that removing unsaturated fat is even better.
+
+Dr Caldwell Esselstyn recommends removing all unsaturated fat from the diet as well, and this means disallowing the use of oil for cooking, no nuts to be consumed, and no avocado.  It may be worthwhile to do a further 3 week trial following his suggestion to see what happens.  You can also read his book on the subject. [9]
+
+## Latest Version ##
+
+Of this diet sheet is at https://github.com/gchiu/Healthy-eating
+
+Version 1.9 Dr Graham Chiu MBChB, MRCP(UK), FRACP 26 Aug 2013
 
 [1] http://www.nice.org.uk/nicemedia/live/13502/64153/64153.pdf
 
@@ -91,4 +103,12 @@ Version 1.8 Dr Graham Chiu MBChB, MRCP(UK), FRACP 8 Aug 2013
 
 [5] Kjeldsen-Kragh J., Borchgrevink C. F., Mowinkel P. et al.
 Controlled trial of fasting and one-year vegetarian diet in
-rheumatoid arthritis. Lancet 1991; 338: 899–902 
+rheumatoid arthritis. Lancet 1991; 338: 899–902	
+
+[6] http://www.ncbi.nlm.nih.gov/pubmed/21135028 Risk factors for mortality in the nurses' health study: a competing risks analysis.
+
+[7] http://www.ncbi.nlm.nih.gov/pubmed/21228801 Pistachio diet improves erectile function parameters and serum lipid profiles in patients with erectile dysfunction.
+
+[8] de Lorgeril M, Salen P, Martin JL, et al. Mediterranean diet, traditional risk factors, and the rate of cardiovascular complications after myocardial infarction: final report of the Lyon Diet Heart Study. Circulation. 1999;99:779–785.
+
+[9] http://www.amazon.com/Prevent-Reverse-Disease-Caldwell-Esselstyn/dp/1583333002
