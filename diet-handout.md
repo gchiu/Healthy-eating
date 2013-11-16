@@ -91,7 +91,7 @@ Dr Caldwell Esselstyn recommends removing all unsaturated fat from the diet base
 
 Of this diet sheet is at https://github.com/gchiu/Healthy-eating
 
-Version 1.10 Dr Graham Chiu MBChB, MRCP(UK), FRACP 26 Aug 2013
+Version 1.10 Dr Graham Chiu MBChB, MRCP(UK), FRACP 17 Nov 2013
 
 [1] http://www.nice.org.uk/nicemedia/live/13502/64153/64153.pdf
 
