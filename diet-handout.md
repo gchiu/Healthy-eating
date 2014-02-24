@@ -20,7 +20,7 @@ Alcohol; no more than 21 Units per week for men, 14 Units for women, and no more
 
 ## **Inclusions** ##
 
-Vegetables freely, pulses/beans, whole grains if you can (brown rice over white, whole grain breads), fruit in natural form ( dried fruits contain too much sugar), nuts ( aim for 30 g of mixed nuts daily - too much and you’ll gain weight ), Quinoa, buckwheat (soba), tofu, white button mushrooms (best of the fungi), and berries.
+Vegetables freely, pulses/beans, whole grains if you can (brown rice over white, whole grain breads), fruit in natural form ( dried fruits contain too much sugar), nuts ( aim for 30 g of mixed nuts daily - too much and you might gain weight ), Quinoa, buckwheat (soba), tofu, white button mushrooms (best of the fungi), and berries.
 
 Use extra virgin NZ olive oil on bread if you need it, and not margarine.  Beware cheap overseas olive oil as it may be adulterated. [2]
 
@@ -51,6 +51,7 @@ Eg. Solgar Vitamin B12 1000 mcg nuggets.  Approximately NZ$36 for 100.  Take one
 **Omega 3**
 
 **Fish Oils**
+
 Avoid fish oils - purity is unknown even it may be claimed to be free of mercury and plastic degradation compounds.  And studies of up to 2-3 years duration have not confirmed heart benefits yet from consuming fish oils.
 
 Farmed Salmon is much higher in fat than wild Salmon, and has a higher proportion of pro-inflammatory Omega-6 vs the more healthy anti-inflammatory long chain marine Omega-3 oils. Farmed fish also contain plastic degradation products.
@@ -87,11 +88,17 @@ It may be that despite keeping to this diet to the letter, your cholesterol does
 
 Dr Caldwell Esselstyn recommends removing all unsaturated fat from the diet based on his many years of treating coronary heart disease, and this means disallowing the use of oil for cooking, no nuts to be consumed, and no avocado.  It may be worthwhile to do a further 3 week trial following his suggestion to see what happens to your cholesterol.  You can also read his book on the subject for more information. [9]
 
+## Getting Started With Recipes ##
+
+There are large numbers of resources on the internet.  The Physicians Committee for Responsible Medicine also has a 21 day menu plan
+
+See http://pcrm.org/kickstartHome/mealplan/
+
 ## Latest Version ##
 
 Of this diet sheet is at https://github.com/gchiu/Healthy-eating
 
-Version 1.10 Dr Graham Chiu MBChB, MRCP(UK), FRACP 17 Nov 2013
+Version 1.11 Dr Graham Chiu MBChB, MRCP(UK), FRACP 17 Feb 2014
 
 [1] http://www.nice.org.uk/nicemedia/live/13502/64153/64153.pdf
 
